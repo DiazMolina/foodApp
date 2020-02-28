@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 ![Screenshot](foodapp.png)
 
+![Screenshot](image2.png)
+
 
 This project is a starting point for a Flutter application.
 
